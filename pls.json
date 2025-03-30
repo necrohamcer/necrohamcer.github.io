@@ -1,6 +1,6 @@
 {    
     "name": "Start StremioMSX",
     "version": "1.0.0",
-    "parameter": "content:https://necrohamcer.github.io/pls.json",
+    "parameter": "content:https://necrohamcer.github.io/main/pls.json",
     "welcome": "none"
 }
